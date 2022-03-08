@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirashrafizham&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=amirashrafizham&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=amirashrafizham&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 **Languages:**:
