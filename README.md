@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# Tech Stack :hammer:
+# Tools I've used :hammer:
 
 ### Languages
 
