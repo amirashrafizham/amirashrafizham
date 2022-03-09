@@ -1,4 +1,4 @@
-# Hi, I'm Amir :robot: :rocket:
+# Hi, I'm Amir :rocket:
 
 
 <!--
@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=amirashrafizham&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+# Languages and Tools I use :wrench:
 
 ### Languages
 
