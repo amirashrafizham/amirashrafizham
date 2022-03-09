@@ -1,4 +1,4 @@
-# Hi, I'm Amir :rocket:
+# Hi, I'm Amir! :rocket:
 
 
 <!--
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-# Languages and Tools I use :hammer:
+# Languages and Tools :hammer:
 
 ### Languages
 
