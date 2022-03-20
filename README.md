@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![](https://komarev.com/ghpvc/?username=amirashrafizham)
+
 # My tech stack! :hammer:
 
 ### Languages
