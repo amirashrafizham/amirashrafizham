@@ -89,10 +89,10 @@ Here are some ideas to get you started:
             </td>
         </tr>
          <tr>
-            <td>
+            <td><a href="https://github.com/amirashrafizham/BE-IoRT">
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
             </a></td>
-            <td><a href="https://github.com/amirashrafizham/BE-IoRT">
+            <td>
             <p>A back-end Robotics IoT API project. Built with .NET Core</p>
             </td>
         </tr>
