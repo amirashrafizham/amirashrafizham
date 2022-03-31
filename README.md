@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 <table>
     <tbody>
         <tr>
-            <td>
+            <td><a href="https://github.com/amirashrafizham/FE-IoRT">
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=FE-IoRT&theme=dark" />
-            </td>
+            </a></td>
             <td>
             <p>A front-end Robotics IoT dashboard project. Built with Blazor</p>
             </td>
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
             <td>
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
             </td>
-            <td>
+            <td><a href="https://github.com/amirashrafizham/BE-IoRT">
             <p>A back-end Robotics IoT API project. Built with .NET Core</p>
-            </td>
+            </a></td>
         </tr>
     </tbody>
 </table>
