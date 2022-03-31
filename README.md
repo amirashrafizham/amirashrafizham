@@ -37,15 +37,7 @@ Here are some ideas to get you started:
 
 ### Frameworks
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases
 
