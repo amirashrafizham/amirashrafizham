@@ -48,7 +48,15 @@ Here are some ideas to get you started:
 
 ### Frameworks
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Databases
 
@@ -70,9 +78,26 @@ Here are some ideas to get you started:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # My Portfolios! :trophy:	 
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=FE-IoRT&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=FE-IoRT&theme=dark" />
+            </td>
+            <td>
+            <p>A front-end Robotics IoT dashboard project. Built with Blazor</p>
+            </td>
+        </tr>
+         <tr>
+            <td>
+            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
+            </td>
+            <td>
+            <p>A back-end Robotics IoT API project. Built with .NET Core</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
