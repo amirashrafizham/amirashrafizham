@@ -56,3 +56,12 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# My Portfolios! :trophy:	 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=FE-IoRT&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
