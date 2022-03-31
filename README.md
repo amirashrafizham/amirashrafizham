@@ -28,10 +28,22 @@ Here are some ideas to get you started:
 # My tech stack! :hammer:
 
 ### Languages
+<table>
+    <tbody>
+        <tr>
+            <td>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            </td>
+            <td>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            </td>
+            <td>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### Frameworks
