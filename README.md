@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=amirashrafizham&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=amirashrafizham)
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
