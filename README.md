@@ -81,6 +81,14 @@ Here are some ideas to get you started:
             <p>A back-end Robotics IoT API project. Built with .NET Core</p>
             </td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/amirashrafizham/MAUI-IoRT">
+            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
+            </a></td>
+            <td>
+            <p>A cross-platform Robotics IoT API project. Built with Blazor MAUI</p>
+            </td>
+        </tr>
     </tbody>
 </table>
 
