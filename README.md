@@ -70,7 +70,7 @@ Here are some ideas to get you started:
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=FE-IoRT&theme=dark" />
             </a></td>
             <td>
-            <p>A front-end Robotics IoT dashboard project. Built with Blazor</p>
+            <p>A front-end Robotics IoT dashboard project. Built with Blazor WebAssembly</p>
             </td>
         </tr>
          <tr>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=BE-IoRT&theme=dark"/>
             </a></td>
             <td>
-            <p>A back-end Robotics IoT API project. Built with .NET Core</p>
+            <p>A back-end Robotics IoT API project. Built with .NET WebAPI</p>
             </td>
         </tr>
         <tr>
