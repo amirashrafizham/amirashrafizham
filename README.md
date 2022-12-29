@@ -86,7 +86,7 @@ Here are some ideas to get you started:
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=MAUI-IoRT&theme=dark"/>
             </a></td>
             <td>
-            <p>A cross-platform Robotics IoT API project. Built with Blazor MAUI</p>
+            <p>A cross-platform Robotics IoT Mobile and Desktop client project. Built with Blazor MAUI</p>
             </td>
         </tr>
     </tbody>
