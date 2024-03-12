@@ -64,6 +64,22 @@ Here are some ideas to get you started:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+# My Machine Learning Engineering Portfolios! :robot:	 
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/amirashrafizham/mining-quality-prediction">
+            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=mining-quality-prediction&theme=dark" />
+            </a></td>
+            <td>
+            <p>An ML Engineering project that predicts the % of Silica Concentrate of a Flotation Plant</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # My Software Engineering Portfolios! :trophy:	 
 <table>
     <tbody>
