@@ -70,7 +70,17 @@ Here are some ideas to get you started:
             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=mining-quality-prediction&theme=dark" />
             </a></td>
             <td>
-            <p>An ML Engineering project that predicts the % of Silica Concentrate of a Flotation Plant</p>
+            <p>An ML Engineering project that predicts and optimizes the % of Silica Concentrate of a Flotation Plant</p>
+            </td>
+        </tr>
+    </tbody>
+        <tbody>
+        <tr>
+            <td><a href="https://github.com/amirashrafizham/concrete-compressive-strength">
+            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amirashrafizham&repo=concrete-compressive-strength&theme=dark" />
+            </a></td>
+            <td>
+            <p>An ML Engineering project that predicts and optimizes the Compressive Strength of Concrete</p>
             </td>
         </tr>
     </tbody>
